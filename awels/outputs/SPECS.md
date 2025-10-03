@@ -11,12 +11,7 @@ The agent should use the following knowledge bases:
    - Content: Source code files and analysis
    - Use for: Answering questions about code structure, functionality, and implementation details
 
-2. **Documentation Knowledge Base**
-   - Collection Name: `cast-shopizer-doc`
-   - Content: Markdown documentation files
-   - Use for: Answering questions about project documentation, guides, and explanations
-
-3. **Image Knowledge Base**
+2. **Image Knowledge Base**
    - Collection Name: `cast-shopizer-multi`
    - Content: Images and diagrams
    - Use for: Answering questions about visual content and diagrams

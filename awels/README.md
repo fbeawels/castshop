@@ -1,4 +1,3 @@
-```markdown
 # CastShop Knowledge Base
 
 Welcome to the CastShop Knowledge Base project. This project is designed to efficiently process, analyze, and store data from the CastShop repository. Below, you'll find detailed information about the tools utilized, processing statistics, vector database collections, and usage instructions.
@@ -30,7 +29,7 @@ In processing the contents of the CastShop repository, we have focused on extrac
 The project employs a variety of advanced tools to ensure accurate and efficient data processing and vectorization.
 
 - **LLM**: 
-  - OpenAI GPT-4o for context generation and code analysis
+  - OpenAI GPT-OSS 20b for context generation and code analysis
 - **Embeddings**: 
   - Ollama with nomic-embed-text model for text embeddings
 - **Vector Database**: 
@@ -80,4 +79,3 @@ To effectively utilize the CastShop Knowledge Base, follow these general steps:
    - Utilize the `CONTEXT.md`, `PROMPT.md`, and `SPECS.md` files for guidance and additional information on system configuration and usage.
 
 With structured guidelines and comprehensive file processing, the CastShop Knowledge Base stands as an essential tool for contributors working on the CastShop project, facilitating a seamless experience in exploring and understanding the repository data.
-```
